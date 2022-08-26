@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "FindUniversityByOption";
+}
+<style>
+    .mybutton:hover {
+        background-color: #2F353B;
+        color: white;
+    }
+</style>
+
+<div class="float-left" style="margin:1vw;font-size:25px;">
+    <a class="btn mybutton mr-3"
+       style="border-radius:20px;border:1px solid black;"
+       asp-action="FindByGrate"
+       asp-controller="Home"
+       data-ajax="true"
+       data-ajax-update="#res"
+       data-ajax-method="get"
+       data-ajax-mode="replace">Найти специальности по баллу</a>
+    <a class="btn mybutton"
+       asp-action="FindByGrateInSelectUniversity"
+       style="border-radius:20px;border:1px solid black;"
+       asp-controller="Home"
+       data-ajax="true"
+       data-ajax-update="#res"
+       data-ajax-method="get"
+       data-ajax-mode="replace">Найти специальности по баллу в определенном университете</a>
+</div>
+<div id="res">
+    @Html.Partial("FindByGrate")
+</div>

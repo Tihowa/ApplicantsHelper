@@ -1,0 +1,67 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer localizer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ApplicantsHelper</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Mukta:wght@700&family=Teko&display=swap" rel="stylesheet">
+    <style>
+        html, body {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body style="font-family: 'Teko', sans-serif; ">
+    <header class="mb-5">
+        <nav class="navbar navbar-expand-lg bg-transparent" style="background-color:#FFFFFF">
+            <div class="container-fluid p-0">
+                <a class="navbar-brand m-0" asp-controller="Home" asp-action="Index" style="font-size:1vw;color:black"><img style="width:3vw;height:3vw;color:black;" class="mr-2" src="~/img/logo.png" /></a>
+                <a class="nav-link" style="color:black" asp-controller="Home" asp-action="Index">
+                    <p style="position:absolute;left:49.3%;top:17px;font-size:1.7vw;">Help <span style="font-family: 'Courgette', cursive;">A</span></p>
+                </a>
+                <div class="collapse navbar-collapse" style="font-size:30px;position:relative" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 float-right" style="position:absolute;right:0;font-size:1vw">
+                        <li class="nav-item ">
+                            <a class="nav-link" style="color:black" asp-controller="Home" asp-action="Index">About</a>
+                        </li>
+                        <li class="nav-item dropdown col">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" style="color:black" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Contacts
+                            </a>
+                            <div class="dropdown-menu border-0" aria-labelledby="navbarDropdown" style="margin:0;">
+                                <a class="dropdown-item " href="#">
+                                    <img src="~/img/vk.png" style="width:25px;height:25px;" />@localizer["Vk"]
+                                </a>
+                                <a class="dropdown-item " href="#"><img src="~/img/instagram.png" style="width:25px;height:25px;" />@localizer["Instagram"]</a>
+                                <a class="dropdown-item " href="#"><img src="~/img/facebook.png" style="width:25px;height:25px;" />@localizer["Facebook"]</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" style="color:black" asp-controller="Home" asp-action="AddingInforamtion">Add information</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container p-5 mb-5">
+        <main role="main" class="m-5 p-5">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/bundle.js"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

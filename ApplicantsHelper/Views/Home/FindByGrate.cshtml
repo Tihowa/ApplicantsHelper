@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<form class="justify-content-md-center mb-5" style="font-size:20px"
+      data-ajax="true"
+      data-ajax-update="#specs"
+      data-ajax-method="post"
+      data-ajax-mode="replace">
+    <div>
+        <label class="control-label m-3">
+            Минимальное количество баллов
+            <input class="input-group col-md-5 text-center m-1" style="background-color:lightgray;border-radius:40px;border:none;font-size:20px" name="mingrate" id="mingrate" min="20" max="400" value="20" type="number" />
+        </label><hr />
+        <label class="control-label m-3">
+            Максимальное количество баллов
+            <input class="input-group col-md-5 text-center m-1" style="background-color:lightgray;border-radius:40px;border:none;font-size:20px" name="maxgrate" id="maxgrate" min="20" max="400" value="400" type="number" />
+        </label>
+        <hr />
+        <input type="submit" value="Найти" class="btn-dark pl-3 pr-3 pt-1 pb-1 ml-4" style="font-size:20px;border-radius:10px" />
+    </div>
+</form>
+<div id="specs" class="mt-5" style="font-size: 20px">
+</div>

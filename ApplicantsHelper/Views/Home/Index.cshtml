@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using ApplicantsHelper.DAL.Models
+@using System.Reflection
+@using ApplicantsHelper.ViewModels
+
+<div class="col-md-12 h-100 mt-5 p-5" style="display:flex;">
+    <div class="col-md-6 m-2 justify-content-md-center">
+        <a class="btn float-right "
+           asp-action="GetAllData"
+           asp-controller="Home">
+            <img style="width:4vw;height:4vw;justify-content:center;" src="~/img/tableIcon.png" />
+        </a>
+    </div>
+    <div class="col-md-6 m-2 justify-content-md-center">
+        <a class="btn float-left align-content-md-center"
+           asp-action="FindUniversityByOption"
+           asp-controller="Home">
+            <img style="width:4vw;height:4vw;justify-content:space-between;" src="~/img/searcheIcon.png" />
+        </a>
+    </div>
+</div>

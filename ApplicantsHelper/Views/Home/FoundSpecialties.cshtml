@@ -1,0 +1,95 @@
+﻿@using ApplicantsHelper.BLL.Models
+@using System.Reflection
+
+@model IEnumerable<SpecialtyDTO>
+
+<div>
+    <table class="col-md-12 table" style="text-align:center">
+        <thead class="thead-dark">
+            <tr style="font-size:20px;">
+                @{
+                    Type type = typeof(SpecialtyDTO);
+                    List<PropertyInfo> infos = type.GetProperties().ToList();
+                    infos.Remove(infos.FirstOrDefault(p => p.Name == "Id"));
+                    SpecialtyDTO specialty = Model.First();
+                    foreach (PropertyInfo item in infos)
+                    {
+                        var value = item.GetValue(specialty);
+                        if (value != null)
+                        {
+                            if (item.PropertyType == typeof(string))
+                            {
+                                if (value.ToString() != "")
+                                {
+                                    <th style="padding:1vw">
+                                        @item.Name
+                                    </th>
+                                }
+                            }
+                            else
+                            {
+                                if (item.PropertyType == typeof(int) || item.PropertyType == typeof(double))
+                                {
+                                    if (Convert.ToDouble(value) != 0)
+                                    {
+                                        <th style="padding:1vw">
+                                            @item.Name
+                                        </th>
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr style="font-size:20px;">
+                    @foreach (PropertyInfo prop in infos)
+                    {
+                        var value = prop.GetValue(item);
+                        if (value != null)
+                        {
+                            if (prop.PropertyType == typeof(string))
+                            {
+                                if (value.ToString() != "")
+                                {
+                                    <td style="padding:1vw">
+                                        <a class="btn" asp-controller="Home" asp-action="ShowUniversityInfo" asp-route-id="@item.Id" style="height:100%;display:block;color:black;text-decoration:none">
+                                            @value.ToString()
+                                        </a>
+                                    </td>
+                                }
+                            }
+                            else
+                            {
+                                if (prop.PropertyType == typeof(int) || prop.PropertyType == typeof(double))
+                                {
+                                    if (Convert.ToDouble(value) != 0)
+                                    {
+                                        <td style="padding:1vw">
+                                            <a class="btn" asp-controller="Home" asp-action="ShowUniversityInfo" asp-route-id="@item.Id" style="height:100%;width:100%;display:block;color:black;text-decoration:none">
+                                                @value.ToString()
+                                            </a>
+                                        </td>
+                                    }
+                                }
+                            }
+                        }
+                    }
+                </tr>
+            }
+        </tbody>
+
+    </table>
+    <a class="btn-dark mt-2 m-3 pl-3 pr-3 pt-1 pb-1 ml-4 " style="font-size:20px;border-radius:10px;text-decoration:none;"
+       asp-action="CloseTable"
+       asp-controller="Home"
+       data-ajax="true"
+       data-ajax-update="#specs"
+       data-ajax-method="get"
+       data-ajax-mode="replace">Скрыть</a>
+</div>

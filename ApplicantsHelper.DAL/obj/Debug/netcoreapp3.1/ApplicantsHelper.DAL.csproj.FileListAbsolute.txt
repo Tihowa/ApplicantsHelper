@@ -1,0 +1,63 @@
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.AssemblyReference.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.deps.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.AssemblyReference.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfoInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.AssemblyInfo.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.csproj.CoreCompileInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.DAL\obj\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb

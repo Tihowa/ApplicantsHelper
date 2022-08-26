@@ -1,0 +1,84 @@
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csprojAssemblyReference.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.AssemblyReference.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.deps.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.AssemblyReference.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfoInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.AssemblyInfo.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CoreCompileInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.csproj.CopyComplete
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper.BLL\obj\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "GetAllData";
+}
+<style>
+    .mybutton:hover {
+        background-color: #2F353B;
+        color: white;
+    }
+</style>
+@using ApplicantsHelper.BLL.Models
+@model IEnumerable<UniversityDTO>
+<div class="float-right" style="margin:1vw;font-size:25px;">
+    <a class="btn mybutton mr-3"
+       style="border-radius:20px;border:1px solid black;"
+       asp-action="Universities"
+       asp-controller="Home"
+       data-ajax="true"
+       data-ajax-update="#res"
+       data-ajax-method="get"
+       data-ajax-mode="replace">Университеты</a>
+    <a class="btn mybutton"
+       asp-action="Specialties"
+       asp-controller="Home"
+       style="border-radius:20px;border:1px solid black;"
+       data-ajax="true"
+       data-ajax-update="#res"
+       data-ajax-method="get"
+       data-ajax-mode="replace">Специальности</a>
+</div>
+<div id="res">
+    @Html.Partial("Universities",Model)
+</div>

@@ -1,0 +1,86 @@
+﻿@model IEnumerable<ApplicantsHelper.BLL.Models.SpecialtyDTO>
+
+@using ApplicantsHelper.BLL.Models
+@using System.Reflection
+
+<div>
+    <table class="col-md-12 table" style="text-align:center;">
+        <thead class="thead-dark">
+            <tr style="font-size:20px;">
+                @{
+                    Type type = typeof(SpecialtyDTO);
+                    List<PropertyInfo> infos = type.GetProperties().ToList();
+                    infos.Remove(infos.FirstOrDefault(p => p.Name == "Id"));
+                    SpecialtyDTO specialty = Model.First();
+                    foreach (PropertyInfo item in infos)
+                    {
+                        var value = item.GetValue(specialty);
+                        if (value != null)
+                        {
+                            if (item.PropertyType == typeof(string))
+                            {
+                                if (value.ToString() != "")
+                                {
+                                    <th style="padding:1vw">
+                                        @item.Name
+                                    </th>
+                                }
+                            }
+                            else
+                            {
+                                if (item.PropertyType == typeof(int) || item.PropertyType == typeof(double))
+                                {
+                                    if (Convert.ToDouble(value) != 0)
+                                    {
+                                        <th style="padding:1vw">
+                                            @item.Name
+                                        </th>
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            </tr>
+        </thead>
+     
+        @foreach (var item in Model)
+        {
+
+            <tr style="font-size:20px;">
+                @foreach (PropertyInfo prop in infos)
+                {
+                    var value = prop.GetValue(item);
+                    if (value != null)
+                    {
+                        if (prop.PropertyType == typeof(string))
+                        {
+                            if (value.ToString() != "")
+                            {
+                                <td style="padding:1vw">
+                                    <a class="btn" asp-controller="Home" asp-action="ShowSpecInfo" asp-route-id="@item.Id" style="height:100%;display:block;color:black;text-decoration:none">
+                                        @value.ToString()
+                                    </a>
+                                </td>
+                            }
+                        }
+                        else
+                        {
+                            if (prop.PropertyType == typeof(int) || prop.PropertyType == typeof(double))
+                            {
+                                if (Convert.ToDouble(value) != 0)
+                                {
+                                    <td style="padding:1vw">
+                                        <a class="btn" asp-controller="Home" asp-action="ShowSpecInfo" asp-route-id="@item.Id" style="height:100%;width:100%;display:block;color:black;text-decoration:none">
+                                            @value.ToString()
+                                        </a>
+                                    </td>
+                                }
+                            }
+                        }
+                    }
+                }
+            </tr>
+        }
+    </table>
+</div>

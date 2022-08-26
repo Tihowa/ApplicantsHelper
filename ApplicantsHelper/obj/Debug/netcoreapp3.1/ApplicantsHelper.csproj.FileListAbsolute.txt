@@ -1,0 +1,1462 @@
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\CORE\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchUniversities.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\CORE\Preview\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.en.resources
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.ru.resources
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.GenerateResource.cache
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\CORE\Without subjects\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.en.resources
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.ru.resources
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.GenerateResource.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\Preview\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csprojAssemblyReference.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.en.resources
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.ru.resources
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.GenerateResource.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Тихон\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddingInforamtion.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.AssemblyReference.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.en.resources
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.ru.resources
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.GenerateResource.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApplicantsHelper.styles.css
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddingInforamtion.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Tikhon\Proga\AspNetCore\Diplom\Preview\PrePre\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\libman.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.exe
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.deps.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.runtimeconfig.dev.json
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\AngleSharp.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Core.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Fonts.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Package.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokenization.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.Tokens.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\UglyToad.PdfPig.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.BLL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\bin\Debug\netcoreapp3.1\ApplicantsHelper.DAL.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.AssemblyReference.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.en.resources
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Resources._Layout.ru.resources
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.GenerateResource.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfoInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.AssemblyInfo.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CoreCompileInputs.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.MvcApplicationPartsAssemblyInfo.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorAssemblyInfo.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\en\ApplicantsHelper.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ru\ApplicantsHelper.resources.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.Manifest.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\staticwebassets\ApplicantsHelper.StaticWebAssets.xml
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApplicantsHelper.styles.css
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.input.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.TagHelpers.output.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorCoreGenerate.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\AddingInforamtion.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\CloseTable.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrate.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindByGrateInSelectUniversity.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FindUniversityByOption.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\FoundSpecialties.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllData.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowSpecInfo.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\ShowUniversityInfo.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Specialties.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Home\Universities.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cache
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.RazorTargetAssemblyInfo.cs
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.Views.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.csproj.CopyComplete
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.dll
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.pdb
+D:\Tikhon\Github\ApplicantsHelper\ApplicantsHelper\obj\Debug\netcoreapp3.1\ApplicantsHelper.genruntimeconfig.cache

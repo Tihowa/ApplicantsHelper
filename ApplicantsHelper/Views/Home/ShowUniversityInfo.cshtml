@@ -1,0 +1,52 @@
+﻿@using System.Reflection
+@using ApplicantsHelper.BLL.Models
+@model UniversityDTO
+
+@{
+    ViewData["Title"] = "ShowUniversityInfo";
+}
+
+<div>
+    <h4>University</h4>
+    <hr />
+    <dl class="m-5">
+        @{
+
+            Type type = typeof(UniversityDTO);
+            List<PropertyInfo> infos = type.GetProperties().ToList();
+            infos.Remove(infos.FirstOrDefault(p => p.Name == "Id"));
+            UniversityDTO university = Model;
+            foreach (PropertyInfo item in infos)
+            {
+                var value = item.GetValue(university);
+                if (value != null)
+                {
+                    if (item.PropertyType == typeof(string))
+                    {
+                        if (value.ToString() != "")
+                        {
+                            <div class="m-3">
+                                <b>@item.Name</b>: @item.GetValue(Model)
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        if (item.PropertyType == typeof(int) || item.PropertyType == typeof(double))
+                        {
+                            if (Convert.ToDouble(value) != 0)
+                            {
+                                <div class="m-3">
+                                    <b>@item.Name</b>: @item.GetValue(Model)
+                                </div>
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    </dl>
+</div>
+<div>
+    <a class="btn btn-outline-dark btn-lg active " asp-controller="Home" asp-action="GetAllData">Previous page</a>
+</div>
